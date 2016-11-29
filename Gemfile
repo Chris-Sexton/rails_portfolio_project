@@ -47,5 +47,6 @@ group :development do
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
   gem 'acts_as_votable', '~> 0.10.0'
   gem 'simple_form', '~> 3.3', '>= 3.3.1'
+  gem 'omniauth-github', '~> 1.1', '>= 1.1.2'
 end
 
